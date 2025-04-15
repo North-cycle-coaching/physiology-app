@@ -1,0 +1,5 @@
+streamlit
+fitparse
+pandas
+numpy
+altair
